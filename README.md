@@ -1,6 +1,6 @@
 # DoubanTVDiscover (MoviePilot v2)
 
-独立版 `豆瓣剧集探索` 插件。
+独立版 `豆瓣剧集精选` 插件。
 
 ## 目录结构
 
@@ -18,7 +18,7 @@ DoubanTVDiscover-standalone/
 
 1. 将本目录内容推送到你自己的 GitHub 仓库根目录。
 2. 在 MoviePilot v2 中添加插件仓库地址（`package.v2.json` 的 Raw URL）。
-3. 在插件市场搜索并安装 `豆瓣剧集探索`。
+3. 在插件市场搜索并安装 `豆瓣剧集精选`。
 
 ### 方式二：手动安装
 
